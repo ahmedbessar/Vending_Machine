@@ -8,7 +8,7 @@
 
 ----------------------------------------------------------------
 
-**Create variables**
+**Created variables**
 - Water 
 - Coke
 - sprite
